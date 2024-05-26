@@ -2,7 +2,7 @@
  <img src="https://github.com/melaniesanchez10/melaniesanchez10/blob/main/imagenes/newlogo.gif" />
 </p align="center">
 
-<h2 align="center"> My Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">⚒️My Technology Stack 💻⚒️</h2>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E">
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%23FFFFFF?style=for-the-badge&logo=MySQL&logoColor=%23FFFFFF&color=%234479A1">
