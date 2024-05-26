@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/melaniesanchez10/melaniesanchez10/blob/main/imagenes/banner.gif" />
+ <img src="https://github.com/melaniesanchez10/melaniesanchez10/blob/main/imagenes/newlogo.gif" />
 </p align="center">
 
 <h2 align="center"> My Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
