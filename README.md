@@ -15,8 +15,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white&color=%23F80000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white&color=%237F52FF">
 <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4">
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20">
 </p>
 
 
