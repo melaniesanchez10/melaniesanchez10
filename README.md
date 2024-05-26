@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://github.com/melaniesanchez10/melaniesanchez10/blob/main/imagenes/banner.gif" />
+</p align="center">
+
 <h2 align="center"> My Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E">
@@ -17,11 +21,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4">
 <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20">
 </p>
-
-
-
-
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8EEE0C&random=false&width=435&lines=Thanks+for+visiting+my+GitHub!;Come+back+soon!" alt="Typing SVG" /></a>
   </a>
