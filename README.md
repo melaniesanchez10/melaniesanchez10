@@ -2,7 +2,7 @@
  <img src="https://github.com/melaniesanchez10/melaniesanchez10/blob/main/imagenes/newlogo.gif" />
 </p align="center">
 
-<h2 align="center">⚒️My Technology Stack 💻⚒️</h2>
+<h2 align="center">My Technology Stack 💻</h2>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E">
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%23FFFFFF?style=for-the-badge&logo=MySQL&logoColor=%23FFFFFF&color=%234479A1">
@@ -21,7 +21,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4">
 <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20">
 </p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8EEE0C&random=false&width=435&lines=Thanks+for+visiting+my+GitHub!;Come+back+soon!" alt="Typing SVG" /></a>
-  </a>
+  <a  href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Afacad&pause=1000&color=8EEE0C&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Thanks+for+visiting+my+GitHub+%F0%9F%A4%A0;Come+back+soon!%F0%9F%91%80" alt="Typing SVG" /></a>
 </div>
