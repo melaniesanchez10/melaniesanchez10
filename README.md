@@ -2,7 +2,7 @@
  <img src="https://github.com/melaniesanchez10/melaniesanchez10/blob/main/imagenes/newlogo.gif" />
 </p align="center">
 
-<h2 align="center">My Technology Stack 💻</h2>
+<h2 align="center">My Technology Stack-Tools I'm also Learning 💻</h2>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E">
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%23FFFFFF?style=for-the-badge&logo=MySQL&logoColor=%23FFFFFF&color=%234479A1">
@@ -20,6 +20,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white&color=%237F52FF">
 <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4">
 <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20">
+<img alt="Static Badge" src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white">
+
 </p>
 
  <a href="https://git.io/typing-svg">
