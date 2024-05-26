@@ -22,5 +22,5 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&color=%23FF2D20">
 </p>
   <a  href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Afacad&pause=1000&color=8EEE0C&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Thanks+for+visiting+my+GitHub+%F0%9F%A4%A0;Come+back+soon!%F0%9F%91%80" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Afacad&pause=1000&color=8EEE0C&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Thanks+for+visiting+my+GitHub;Come+back+soon!%F0%9F%91%80" alt="Typing SVG" /></a>
 </div>
